@@ -1,5 +1,7 @@
 # game_T451
 
+VIDEOJUEGO TESLA 451 // PRESENTADO POR MRV // 150522
+
 El videojuego se llama TESLA 451, toma como inspiración unas líneas de la novela distópica de ciencia ficción “Fahrenheit 451” de Ray Bradbury, dentro de la cual se abordan temas acerca de la deshumanización por tecnología, además de los actuales desarrollados sistemas de manejo autónomo hechos por TESLA principalmente.
 
 Escenas y componentes del videojuego:
